@@ -49,9 +49,7 @@ I am constantly expanding my knowledge base. My current focus areas are:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rober0&theme=blood-dark&hide_border=true"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rober0&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 ---
