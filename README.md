@@ -2,35 +2,18 @@
 
 I'm a Full Stack Developer enthusiastic about building scalable web applications and exploring complex backend architectures. I love combining modern frontend frameworks with robust backend technologies.
 
----
-
-### 🛠️ My Favorite Stacks
-
-I specialize in two main ecosystems, choosing the best tool for the job:
-
-**1. The Agile & Modern Web**
-> Python (Django REST Framework) + React (Vite) + Tailwind CSS
-
-**2. The Enterprise & Robust**
-> C# (.NET / ASP.NET) + Angular
-
----
-
 ### 💻 Technologies & Tools
 
-**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend**
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=092E20&labelColor=092E20)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
