@@ -28,8 +28,7 @@ I am constantly expanding my knowledge base. My current focus areas are:
 - 🤖 **Machine Learning** (exploring AI models with Python)
 - 🔷 **C# Advanced Concepts**
 
----
-
+<!--
 ### 📊 GitHub Stats
 
 <picture>
@@ -38,7 +37,6 @@ I am constantly expanding my knowledge base. My current focus areas are:
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!--
 ---
 
 ### 📫 Let's Connect
