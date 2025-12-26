@@ -30,20 +30,9 @@ I am constantly expanding my knowledge base. My current focus areas are:
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rober0/rober0/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soewle/soewle/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soewle/soewle/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rober0/rober0/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<!--
----
-
-### 📫 Let's Connect
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/[SEU_LINKEDIN])
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:[SEU_EMAIL])
